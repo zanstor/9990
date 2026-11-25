@@ -34,7 +34,7 @@
 - Слово: **ГЛАЗА** · Продукт: промт сцены + «Как сделать финал, который летит в зрителя»
 - Опубликовано: сразу (shareNow), 25.11.2026 ~15:19 по Бухаресту (14:19 Берлин)
 - R2: https://pub-04de215847ba473cb11c600a4dac90f7.r2.dev/2026-11-25_10_glaza.mp4
-- Buffer: IG `6b06e03e77264060a201ac8e` · TikTok `6b06e053d0c412ddea8254b9` · YouTube `6b06e0635f4bdd9b86bcdb7d`
+- Buffer: IG `6b06e03e77264060a201ac8e` · TikTok `6b06e053d0c412ddea8254b9` · YouTube `6b06e0635f4bdd9b86bcdb7d` (https://www.youtube.com/watch?v=_p96Zy5yY0E)
 - Маркировка ИИ (isAiGenerated) — во всех трёх каналах
 
 **Instagram (IG 1, основной посыл):**
